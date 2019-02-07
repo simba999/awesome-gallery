@@ -1,5 +1,5 @@
 {
-  "name": "acgallery",
+  "name": "awesome-gallery",
   "version": "0.4.2",
   "license": "MIT",
   "scripts": {
@@ -14,7 +14,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/alvachien/acgallery.git"
+    "url": "https://github.com/simba999/awesome-gallery.git"
   },
   "dependencies": {
     "@angular/animations": "~7.0.3",
